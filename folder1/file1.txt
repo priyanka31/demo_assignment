@@ -2,6 +2,6 @@ This is the initial text in the file.
 First commit
 Second commit
 third commit
-fourth commit
+fourth commit 26
 fifth commit 26
 sixth commit 26
