@@ -1,6 +1,6 @@
 This is the initial data in file 2 of folder2.
 commit 1
-commit 2
+commit 2nd
 commit 3rd
 commit 4th
 commit 5th
