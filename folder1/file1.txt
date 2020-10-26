@@ -1,9 +1,3 @@
 This is the initial text in the file.
 First commit
-Second commit 26
-third commit 26
-fourth commit 26
-fifth commit 26
-sixth commit 26 26
-file 1 change
-commit 26
+workspace commit
