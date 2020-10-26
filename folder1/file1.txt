@@ -1,3 +1,2 @@
 This is the initial text in the file.
 First commit
-workspace commit
